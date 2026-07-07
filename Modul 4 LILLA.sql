@@ -1,5 +1,5 @@
--- Nama 	: cili cahayti
--- NIM 		: 24241077
+-- Nama 	: LILLA IZATI KAMILA
+-- NIM 		: 24241089
 -- Kelas 	: C
 -- Modul 	: 4
 
